@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Reading notes for Complex Analysis]]></title>
+    <url>%2F2019%2F03%2F06%2FReading%20notes%20for%20Complex%20Analysis%2F</url>
+    <content type="text"><![CDATA[It&#x2019;s just a note for books and other materials i&#x2019;ve read in winter break. And it&#x2019;s more likely to be my self-training for scientific writing,so it would have lots of mistaskes or looks like &#x201C;not even wrong&#x201D;. ~Keep Updating~ 03/06 Artikel created,topics Bieberbach Conjecture and Riemann mapping theorem were added Bieberbach&#x2019;s Conjecture In the following,D means unit disk and S means the set of all schlicht(i.e. one-to-one holomorphic) functions. &#x201C;Vielleicht ist &#xFC;berhaupt $k_n = n$.(L.Bieberbach,1916)&#x201D; Mittag-Leffler Theorem,Weierstrass Factorization Theorem and Coherent Analytic SheafFrom Riemann Mapping Theorem to Uniformization TheoremPicard&#x2019;s Theorem and Neavanlinna Theory]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[My First Post]]></title>
+    <url>%2F2019%2F03%2F06%2FMy-First-Post%2F</url>
+    <content type="text"><![CDATA[It&#x2019;s just a blog,or so-called a tree hollow to put whatever i want.]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F03%2F02%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new &quot;My New Post&quot; More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
